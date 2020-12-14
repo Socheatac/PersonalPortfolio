@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.f5fcdc29.chunk.css",
+    "main.js": "/PortfolioReact/static/js/main.c669de5c.chunk.js",
+    "main.js.map": "/PortfolioReact/static/js/main.c669de5c.chunk.js.map",
+    "runtime-main.js": "/PortfolioReact/static/js/runtime-main.013ce920.js",
+    "runtime-main.js.map": "/PortfolioReact/static/js/runtime-main.013ce920.js.map",
+    "static/js/2.80a08c7b.chunk.js": "/PortfolioReact/static/js/2.80a08c7b.chunk.js",
+    "static/js/2.80a08c7b.chunk.js.map": "/PortfolioReact/static/js/2.80a08c7b.chunk.js.map",
+    "index.html": "/PortfolioReact/index.html",
+    "static/css/main.f5fcdc29.chunk.css.map": "/PortfolioReact/static/css/main.f5fcdc29.chunk.css.map",
+    "static/js/2.80a08c7b.chunk.js.LICENSE.txt": "/PortfolioReact/static/js/2.80a08c7b.chunk.js.LICENSE.txt",
+    "static/media/avatar.7324606b.png": "/PortfolioReact/static/media/avatar.7324606b.png",
+    "static/media/App.css": "/PortfolioReact/static/media/coffee-apple.9fa4ee49.jpg",
+    "static/media/html-css-javascript-lg.91568b14.jpg": "/PortfolioReact/static/media/html-css-javascript-lg.91568b14.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.013ce920.js",
+    "static/js/2.80a08c7b.chunk.js",
+    "static/css/main.f5fcdc29.chunk.css",
+    "static/js/main.c669de5c.chunk.js"
+  ]
+}
